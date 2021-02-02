@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelephoneBook", "TelephoneBook\TelephoneBook.csproj", "{7157789D-7503-40FE-A5A9-FC42F45B50A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telephone.DAL", "Telephone.DAL\Telephone.DAL.csproj", "{76301D86-0CEC-428C-9923-345E881E57A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7157789D-7503-40FE-A5A9-FC42F45B50A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7157789D-7503-40FE-A5A9-FC42F45B50A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7157789D-7503-40FE-A5A9-FC42F45B50A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7157789D-7503-40FE-A5A9-FC42F45B50A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76301D86-0CEC-428C-9923-345E881E57A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76301D86-0CEC-428C-9923-345E881E57A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76301D86-0CEC-428C-9923-345E881E57A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76301D86-0CEC-428C-9923-345E881E57A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {793D1281-7A26-4985-AF8B-85894E37E9C7}
+	EndGlobalSection
+EndGlobal

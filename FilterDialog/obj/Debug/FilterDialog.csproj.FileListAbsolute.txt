@@ -1,0 +1,8 @@
+C:\Users\Denis\Desktop\Новая папка C#\TelephoneBook\FilterDialog\bin\Debug\FilterDialog.dll
+C:\Users\Denis\Desktop\Новая папка C#\TelephoneBook\FilterDialog\bin\Debug\FilterDialog.pdb
+C:\Users\Denis\Desktop\Новая папка C#\TelephoneBook\FilterDialog\obj\Debug\FilterDialog.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Новая папка C#\TelephoneBook\FilterDialog\obj\Debug\FilterDialog.FilterDialog.resources
+C:\Users\Denis\Desktop\Новая папка C#\TelephoneBook\FilterDialog\obj\Debug\FilterDialog.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\Новая папка C#\TelephoneBook\FilterDialog\obj\Debug\FilterDialog.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\TelephoneBook\FilterDialog\obj\Debug\FilterDialog.dll
+C:\Users\Denis\Desktop\Новая папка C#\TelephoneBook\FilterDialog\obj\Debug\FilterDialog.pdb

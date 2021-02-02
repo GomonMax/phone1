@@ -1,0 +1,12 @@
+C:\Users\Denis\Desktop\Новая папка C#\TelephoneBook\Telephone.DAL\bin\Release\netcoreapp3.1\Telephone.DAL.deps.json
+C:\Users\Denis\Desktop\Новая папка C#\TelephoneBook\Telephone.DAL\bin\Release\netcoreapp3.1\Telephone.DAL.runtimeconfig.json
+C:\Users\Denis\Desktop\Новая папка C#\TelephoneBook\Telephone.DAL\bin\Release\netcoreapp3.1\Telephone.DAL.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\Новая папка C#\TelephoneBook\Telephone.DAL\bin\Release\netcoreapp3.1\Telephone.DAL.dll
+C:\Users\Denis\Desktop\Новая папка C#\TelephoneBook\Telephone.DAL\bin\Release\netcoreapp3.1\Telephone.DAL.pdb
+C:\Users\Denis\Desktop\Новая папка C#\TelephoneBook\Telephone.DAL\obj\Release\netcoreapp3.1\Telephone.DAL.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Новая папка C#\TelephoneBook\Telephone.DAL\obj\Release\netcoreapp3.1\Telephone.DAL.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\TelephoneBook\Telephone.DAL\obj\Release\netcoreapp3.1\Telephone.DAL.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Новая папка C#\TelephoneBook\Telephone.DAL\obj\Release\netcoreapp3.1\Telephone.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\TelephoneBook\Telephone.DAL\obj\Release\netcoreapp3.1\Telephone.DAL.dll
+C:\Users\Denis\Desktop\Новая папка C#\TelephoneBook\Telephone.DAL\obj\Release\netcoreapp3.1\Telephone.DAL.pdb
+C:\Users\Denis\Desktop\Новая папка C#\TelephoneBook\Telephone.DAL\obj\Release\netcoreapp3.1\Telephone.DAL.genruntimeconfig.cache
